@@ -1,0 +1,15 @@
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\bin\Debug\net6.0\RoboticInterface.ConsoleApp.exe
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\bin\Debug\net6.0\RoboticInterface.ConsoleApp.deps.json
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\bin\Debug\net6.0\RoboticInterface.ConsoleApp.runtimeconfig.json
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\bin\Debug\net6.0\RoboticInterface.ConsoleApp.dll
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\bin\Debug\net6.0\RoboticInterface.ConsoleApp.pdb
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\RoboticInterface.ConsoleApp.csproj.AssemblyReference.cache
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\RoboticInterface.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\RoboticInterface.ConsoleApp.AssemblyInfoInputs.cache
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\RoboticInterface.ConsoleApp.AssemblyInfo.cs
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\RoboticInterface.ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\RoboticInterface.ConsoleApp.dll
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\refint\RoboticInterface.ConsoleApp.dll
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\RoboticInterface.ConsoleApp.pdb
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\RoboticInterface.ConsoleApp.genruntimeconfig.cache
+G:\Programming files\C_sharp\PlayersGuide\RoboticInterface\RoboticInterface.ConsoleApp\obj\Debug\net6.0\ref\RoboticInterface.ConsoleApp.dll
