@@ -1,0 +1,15 @@
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\WarPrep.ConsoleApp.csproj.AssemblyReference.cache
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\WarPrep.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\WarPrep.ConsoleApp.AssemblyInfoInputs.cache
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\WarPrep.ConsoleApp.AssemblyInfo.cs
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\WarPrep.ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\bin\Debug\net6.0\WarPrep.ConsoleApp.exe
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\bin\Debug\net6.0\WarPrep.ConsoleApp.deps.json
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\bin\Debug\net6.0\WarPrep.ConsoleApp.runtimeconfig.json
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\bin\Debug\net6.0\WarPrep.ConsoleApp.dll
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\bin\Debug\net6.0\WarPrep.ConsoleApp.pdb
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\WarPrep.ConsoleApp.dll
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\refint\WarPrep.ConsoleApp.dll
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\WarPrep.ConsoleApp.pdb
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\WarPrep.ConsoleApp.genruntimeconfig.cache
+G:\Programming files\C_sharp\PlayersGuide\WarPrep\WarPrep.ConsoleApp\obj\Debug\net6.0\ref\WarPrep.ConsoleApp.dll
